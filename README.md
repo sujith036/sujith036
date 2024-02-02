@@ -1,0 +1,7 @@
+- 👋 Greetings, I'm @sujith036 - a tech enthusiast on a journey.
+- 👀 Navigating through project management, electrical engineering, and the world of data analytics.
+- 🌱 Currently exploring data science and machine learning, using tools like Excel, Tableau, SQL, Python, Pandas, and NumPy.
+- 💞️ Open to collaborations on projects blending project precision with the magic of data analytics.
+- 📫 Feel free to connect for a chat on tech or projects.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm always up for a game of chess or a friendly debate!
